@@ -7,6 +7,7 @@
   
 - 🌱 I’m currently learning:
     1) Machine Learning - using Matlab
+    2) Self-Hosting
     
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ---!>
