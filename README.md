@@ -7,7 +7,8 @@
   
 - 🌱 I’m currently learning:
     1) Machine Learning - using Matlab
-    2) Self-Hosting
+    2) Self-Hosting on Linux
+    3) C/C++ on for Game Development via Handmade Hero
     
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ---!>
