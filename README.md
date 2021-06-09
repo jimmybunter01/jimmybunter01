@@ -4,6 +4,7 @@
     1) Machine Learning & Artificial Intelligence
     2) Robotics
     3) Open-source software, privacy & cryptography
+    4) Video Game Development
   
 - 🌱 I’m currently learning:
     1) Machine Learning - using Matlab
