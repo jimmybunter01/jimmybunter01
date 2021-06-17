@@ -8,7 +8,7 @@
     5) Video Game Development
   
 - 🌱 I’m currently learning:
-    1) Machine Learning - using Matlab
+    1) Machine Learning - using Matlab & Python
     2) Self-Hosting on Linux
     3) C/C++ on for Game Development via Handmade Hero
     
