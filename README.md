@@ -1,16 +1,8 @@
 - 👋 Hi, I’m @jimmybunter01
 
-- 👀 I’m interested in:
-    1) Machine Learning & Artificial Intelligence
-    2) Robotics
-    3) Open-source software, privacy & cryptography
-    4) Sceince esecially Space, ML applications within and Climate Change / Renewable Energy.
-    5) Video Game Development
-  
-- 🌱 I’m currently learning:
-    1) Machine Learning - using Matlab & Python
-    2) Self-Hosting on Linux
-    3) C/C++ on for Game Development via Handmade Hero
+- 🌱 I’m currently learning and/or developing muy skills in:
+1) Machine Learning Python
+2) Rust
     
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ---!>
