@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @jimmybunter01
 
 🌱 I’m currently learning and/or developing my skills in:
-1) Data Science & Machine Learning in Python.
-2) Rust
+1) Machine Learning in Python.
+2) Graphics Programming in C
     
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ---!>
