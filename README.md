@@ -3,11 +3,6 @@
 🌱 I’m currently learning and/or developing my skills in:
 1) Machine Learning in Python.
 2) Graphics Programming in C
-    
-<!--- - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... ---!>
 
-<!---
-jimmybunter01/jimmybunter01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Graphics Programming Example - Rotating Cube of Points**
+![2OegFVb744](https://github.com/user-attachments/assets/8fd73c44-6196-456f-8caa-0d2c8d01dcdc)
