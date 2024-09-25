@@ -4,5 +4,6 @@
 1) Machine Learning in Python.
 2) Graphics Programming in C
 
-**Graphics Programming Example - Rotating Cube of Points**
-![2OegFVb744](https://github.com/user-attachments/assets/8fd73c44-6196-456f-8caa-0d2c8d01dcdc)
+**Graphics Programming Example - Wireframe Cube**
+https://github.com/user-attachments/assets/67986ad7-9ccd-4ecc-a86b-9d1490d85a05
+
